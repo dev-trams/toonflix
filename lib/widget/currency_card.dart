@@ -19,7 +19,7 @@ class CurrencyCard extends StatelessWidget {
     required this.mode,
   });
 
-  /// Flutter UI CHALLENGE by nomadcoder.co <br>
+  /// Flutter UI CHALLENGE by nomadcoders.co <br>
   /// @name | _offset() <br>
   /// @return | -(mode) * 20 <br>
   /// @comm | mode값이 받아오는 데이터를 음수값으로 바꿔 지정된 20과 곱한 값을 offset(dy)값에 대입하기 위한 함수
